@@ -1,0 +1,17 @@
+	 WELCOME TO SARTH TAILOR SHOP
+ Bill Number:3812
+ Customer Name:onkar
+ Mobile Number:7499419090
+ Email:anjndjdn
+==================================================
+ PRODUCTS			QTY			PRICE
+==================================================
+ Levis			1			5000
+ Levis			1			5000
+ Levis			1			5000
+
+==================================================
+ Sub Total:Rs.15000.00
+ Tax:Rs.100.00
+ Total:Rs.15100.00
+==================================================

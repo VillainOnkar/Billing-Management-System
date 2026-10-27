@@ -1,0 +1,17 @@
+	 WELCOME TO SARTH TAILOR SHOP
+ Bill Number:4838
+ Customer Name:Ganesh
+ Mobile Number:8888357708
+ Email:ganesh@gmail.com
+==================================================
+ PRODUCTS			QTY			PRICE
+==================================================
+ Levis			1			5000
+ Peter England			1			2100
+ Peter England			1			2100
+
+==================================================
+ Sub Total:Rs.9200.00
+ Tax:Rs.71.00
+ Total:Rs.9271.00
+==================================================
